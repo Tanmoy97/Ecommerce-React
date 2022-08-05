@@ -29,3 +29,4 @@ Information about the product page:
 ![Screenshot (877)](https://user-images.githubusercontent.com/53449205/183014717-990f0aad-e922-4a31-97eb-6a132b25f81c.png)
 
 onClick on pencil button:
+![Screenshot (879)](https://user-images.githubusercontent.com/53449205/183014915-ab897069-ab3e-4dcd-901d-9056afbb65ff.png)
