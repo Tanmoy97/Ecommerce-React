@@ -26,3 +26,6 @@ Cart page:
 ![Screenshot (876)](https://user-images.githubusercontent.com/53449205/183014419-613db045-4a8b-4933-9896-5d36bb414eca.png)
 
 Information about the product page:
+![Screenshot (877)](https://user-images.githubusercontent.com/53449205/183014717-990f0aad-e922-4a31-97eb-6a132b25f81c.png)
+
+onClick on pencil button:
