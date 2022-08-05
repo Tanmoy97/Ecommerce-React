@@ -23,3 +23,6 @@ Add new Product page:
 ![Screenshot (875)](https://user-images.githubusercontent.com/53449205/183014190-87c6bfee-6aac-43c9-abbe-85e25f432d3c.png)
 
 Cart page:
+![Screenshot (876)](https://user-images.githubusercontent.com/53449205/183014419-613db045-4a8b-4933-9896-5d36bb414eca.png)
+
+Information about the product page:
