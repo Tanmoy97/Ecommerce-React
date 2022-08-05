@@ -20,4 +20,6 @@ Product List Page:
 ![Screenshot (874)](https://user-images.githubusercontent.com/53449205/183013916-00adc355-75a1-46b7-844d-4c4d694d96e5.png)
 
 Add new Product page:
+![Screenshot (875)](https://user-images.githubusercontent.com/53449205/183014190-87c6bfee-6aac-43c9-abbe-85e25f432d3c.png)
 
+Cart page:
