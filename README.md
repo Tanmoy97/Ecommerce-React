@@ -1,7 +1,7 @@
 # Ecommerce-React
 # Getting Started with Create React App
 
-# Hosted link :  https://tanmoy97.github.io/
+# Hosted link :  https://tanmoy97.github.io/Ecommerce-React/
 
 # Features:
   1. Each product is editable by clicking on the “pencil” button.
